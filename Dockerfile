@@ -17,6 +17,3 @@ EXPOSE 3000
 # docker build -t my-next-app .
 
 # docker run -p 3000:3000 my-next-app
-
-# docker tag eventapp yourusername/eventapp:latest
-# docker tag eventapp navinkumaran/event_application:latest
